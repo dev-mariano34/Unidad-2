@@ -1,0 +1,12 @@
+//Convertir una cantidad expresada en dólares a pesos. Se debe prever que el valor de conversión es variable.
+Algoritmo
+definir dolares,pesos,conversion como real
+escribir("Ingrese la cantidad en pesos");
+leer peso;
+escribir "ingrese el precio del dolar";
+leer dolar;
+  Si
+    conversion = dolar / peso o cantidad de dolares = (cantidad de pesos*valor del dolar);
+    escribir "la conversion de  ",dolar,  "dolares convertidos a pesos:  ",conversion);
+  finsi
+fin
